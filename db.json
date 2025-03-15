@@ -1,0 +1,1585 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "type": "música",
+      "img_sm": "/assets/upcoming/img/music/1-sm.png",
+      "img_lg": "/assets/upcoming/img/music/1-lg.png",
+      "date": "2025-04-15",
+      "hour": "20:00",
+      "title": "Rock Legends Live Concert",
+      "location": "Madison Square Garden, New York",
+      "description": "Vive una noche inolvidable con las leyendas del rock en un concierto que encenderá tus sentidos. Disfruta de un espectáculo lleno de energía, guitarras potentes y clásicos que han marcado generaciones. Acompáñanos en el icónico Madison Square Garden y sé parte de una experiencia única junto a miles de fanáticos apasionados. ¡Prepara tu voz para cantar tus himnos favoritos y déjate llevar por la magia del rock en su máxima expresión! La música en vivo, los efectos visuales y el ambiente vibrante te harán sentir la emoción del verdadero rock and roll.",
+      "seats": [
+        {
+          "seat": "frontseat",
+          "price": 100
+        },
+        {
+          "seat": "backseat",
+          "price": 60
+        },
+        {
+          "seat": "vip",
+          "price": 150
+        }
+      ],
+      "organizers": [
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-1.png",
+          "name": "Ellie Black",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        },
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-2.png",
+          "name": "Amelie Laurent",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        },
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-1.png",
+          "name": "Amelie Laurent",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        }
+      ],
+      "recommended": false
+    },
+    {
+      "id": "2",
+      "type": "música",
+      "img_sm": "/assets/upcoming/img/music/2-sm.png",
+      "img_lg": "/assets/upcoming/img/music/2-lg.png",
+      "date": "2025-05-05",
+      "hour": "19:00",
+      "title": "Jazz Night Live",
+      "location": "Blue Note, New York",
+      "description": "Sumérgete en la atmósfera íntima de una noche mágica de jazz en el legendario Blue Note de Nueva York. Disfruta de interpretaciones en vivo que fusionan el ritmo, la improvisación y la pasión en cada nota. Déjate envolver por el sonido cálido del saxofón, el contrabajo y el piano mientras artistas reconocidos y talentos emergentes crean una experiencia sonora única. Una velada perfecta para los amantes del jazz y quienes buscan momentos inolvidables. Vive la esencia del jazz con cada acorde que resuena en el alma.",
+      "seats": [
+        {
+          "seat": "frontseat",
+          "price": 100
+        },
+        {
+          "seat": "backseat",
+          "price": 60
+        },
+        {
+          "seat": "vip",
+          "price": 150
+        }
+      ],
+      "organizers": [
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-1.png",
+          "name": "Ellie Black",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        },
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-2.png",
+          "name": "Amelie Laurent",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        },
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-1.png",
+          "name": "Amelie Laurent",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        }
+      ],
+      "recommended": true
+    },
+    {
+      "id": "3",
+      "type": "arte",
+      "img_sm": "/assets/upcoming/img/art/3-sm.png",
+      "img_lg": "/assets/upcoming/img/art/3-lg.png",
+      "date": "2025-05-20",
+      "hour": "10:00",
+      "title": "Street Art Festival",
+      "location": "Art District, Berlin",
+      "description": "Descubre el vibrante universo del arte urbano en el Street Art Festival, un evento que transforma el Art District de Berlín en una galería al aire libre. Contempla murales gigantes, grafitis innovadores y performances en vivo de reconocidos artistas internacionales y talentos locales. Sumérgete en la cultura callejera con talleres interactivos, música en vivo y exposiciones que celebran la creatividad sin límites. Vive una experiencia colorida y única en el corazón artístico de la ciudad.",
+      "seats": [
+        {
+          "seat": "frontseat",
+          "price": 100
+        },
+        {
+          "seat": "backseat",
+          "price": 60
+        },
+        {
+          "seat": "vip",
+          "price": 150
+        }
+      ],
+      "organizers": [
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-1.png",
+          "name": "Ellie Black",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        },
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-2.png",
+          "name": "Amelie Laurent",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        },
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-1.png",
+          "name": "Ellie Black",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        },
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-2.png",
+          "name": "Amelie Laurent",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        }
+      ],
+      "recommended": true
+    },
+    {
+      "id": "4",
+      "type": "arte",
+      "img_sm": "/assets/upcoming/img/art/2-sm.png",
+      "img_lg": "/assets/upcoming/img/art/2-lg.png",
+      "date": "2025-05-01",
+      "hour": "11:00",
+      "title": "Impressionist Art Exhibition",
+      "location": "Louvre Museum, Paris",
+      "description": "Admira la luz, el color y el movimiento en la Impressionist Art Exhibition del famoso Louvre de París. Explora obras maestras de Monet, Renoir, Degas y otros íconos que revolucionaron la pintura moderna. Sumérgete en paisajes vibrantes, escenas urbanas y retratos llenos de emoción y matices. La muestra incluye piezas inéditas y experiencias interactivas que te permitirán comprender el impacto de este movimiento artístico. Una cita imperdible para los amantes del arte, la historia y la belleza atemporal.",
+      "seats": [
+        {
+          "seat": "frontseat",
+          "price": 100
+        },
+        {
+          "seat": "backseat",
+          "price": 60
+        },
+        {
+          "seat": "vip",
+          "price": 150
+        }
+      ],
+      "organizers": [
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-1.png",
+          "name": "Ellie Black",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        },
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-2.png",
+          "name": "Amelie Laurent",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        },
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-2.png",
+          "name": "Amelie Laurent",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        }
+      ],
+      "recommended": false
+    },
+    {
+      "id": "5",
+      "type": "arte",
+      "img_sm": "/assets/upcoming/img/art/1-sm.png",
+      "img_lg": "/assets/upcoming/img/art/1-lg.png",
+      "date": "2025-04-10",
+      "hour": "18:00",
+      "title": "Art Nouveau Exhibition",
+      "location": "Art Museum, New York",
+      "description": "Descubre la elegancia y la sofisticación del movimiento Art Nouveau en esta exposición imperdible en el Art Museum de Nueva York. Explora obras maestras de artistas como Gustav Klimt, Alphonse Mucha y Antoni Gaudí, donde las formas orgánicas, las curvas estilizadas y los motivos naturales cobran vida. La muestra incluye piezas de mobiliario, vitrales, joyería y carteles icónicos. Una experiencia fascinante que celebra la fusión del arte y el diseño en un estilo que marcó el inicio del siglo XX.",
+      "seats": [
+        {
+          "seat": "frontseat",
+          "price": 100
+        },
+        {
+          "seat": "backseat",
+          "price": 60
+        },
+        {
+          "seat": "vip",
+          "price": 150
+        }
+      ],
+      "organizers": [
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-1.png",
+          "name": "Ellie Black",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        },
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-2.png",
+          "name": "Amelie Laurent",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        },
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-1.png",
+          "name": "Ellie Black",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        }
+      ],
+      "recommended": false
+    },
+    {
+      "id": "6",
+      "type": "comida",
+      "img_sm": "/assets/upcoming/img/food/1-sm.png",
+      "img_lg": "/assets/upcoming/img/food/1-lg.png",
+      "date": "2025-04-20",
+      "hour": "14:00",
+      "title": "Gourmet Food Festival",
+      "location": "Central Park, New York",
+      "description": "Disfruta de un viaje culinario sin igual en el Gourmet Food Festival de Central Park, Nueva York. Saborea creaciones de chefs de renombre internacional y descubre sabores únicos de todo el mundo, desde tapas españolas hasta sushi japonés y postres franceses. Habrá catas de vinos, talleres de cocina y demostraciones en vivo. Un evento ideal para los amantes de la gastronomía que buscan nuevas experiencias sensoriales en un ambiente vibrante y al aire libre. ¡No te lo pierdas!",
+      "seats": [
+        {
+          "seat": "frontseat",
+          "price": 100
+        },
+        {
+          "seat": "backseat",
+          "price": 60
+        },
+        {
+          "seat": "vip",
+          "price": 150
+        }
+      ],
+      "organizers": [
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-1.png",
+          "name": "Ellie Black",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        },
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-2.png",
+          "name": "Amelie Laurent",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        },
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-1.png",
+          "name": "Amelie Laurent",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        }
+      ],
+      "recommended": false
+    },
+    {
+      "id": "7",
+      "type": "comida",
+      "img_sm": "/assets/upcoming/img/food/2-sm.png",
+      "img_lg": "/assets/upcoming/img/food/2-lg.png",
+      "date": "2025-05-10",
+      "hour": "12:00",
+      "title": "Vegan Delights Cooking Class",
+      "location": "Culinary School, Los Angeles",
+      "description": "Descubre el arte de la cocina vegana en el Vegan Delights Cooking Class de la prestigiosa Culinary School de Los Ángeles. Aprende técnicas innovadoras para preparar platos saludables, sabrosos y sostenibles. Chefs expertos te guiarán paso a paso en la creación de recetas deliciosas, desde entradas frescas hasta postres irresistibles. Disfruta de un ambiente amigable, comparte con otros entusiastas de la gastronomía consciente y llévate a casa nuevos conocimientos y sabores inolvidables.",
+      "seats": [
+        {
+          "seat": "frontseat",
+          "price": 100
+        },
+        {
+          "seat": "backseat",
+          "price": 60
+        },
+        {
+          "seat": "vip",
+          "price": 150
+        }
+      ],
+      "organizers": [
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-1.png",
+          "name": "Ellie Black",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        },
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-2.png",
+          "name": "Amelie Laurent",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        }
+      ],
+      "recommended": true
+    },
+    {
+      "id": "8",
+      "type": "deporte",
+      "img_sm": "/assets/upcoming/img/sport/2-sm.png",
+      "img_lg": "/assets/upcoming/img/sport/2-lg.png",
+      "date": "2025-05-15",
+      "hour": "09:30",
+      "title": "International Cricket Tournament",
+      "location": "Cricket Ground, London",
+      "description": "Vive la emoción del International Cricket Tournament en el emblemático Cricket Ground de Londres. Disfruta de partidos intensos con selecciones de élite compitiendo por la gloria en un ambiente vibrante. Siente la pasión de los fanáticos, la estrategia en cada jugada y los espectaculares batazos que harán vibrar el estadio. Un evento imperdible para los seguidores del cricket y quienes buscan vivir una jornada deportiva cargada de adrenalina, tradición y momentos inolvidables.",
+      "seats": [
+        {
+          "seat": "frontseat",
+          "price": 100
+        },
+        {
+          "seat": "backseat",
+          "price": 60
+        },
+        {
+          "seat": "vip",
+          "price": 150
+        }
+      ],
+      "organizers": [
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-1.png",
+          "name": "Ellie Black",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        },
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-2.png",
+          "name": "Amelie Laurent",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        }
+      ],
+      "recommended": true
+    },
+    {
+      "id": "9",
+      "type": "deporte",
+      "img_sm": "/assets/upcoming/img/sport/1-sm.png",
+      "img_lg": "/assets/upcoming/img/sport/1-lg.png",
+      "date": "2025-04-25",
+      "hour": "16:00",
+      "title": "Basketball Championship Final",
+      "location": "Staples Center, Los Angeles",
+      "description": "Vive la intensidad de la Basketball Championship Final en el legendario Staples Center de Los Ángeles. Sé testigo de un duelo épico entre los dos mejores equipos de la temporada, donde la velocidad, la precisión y el trabajo en equipo alcanzan su máxima expresión. Disfruta del ambiente eléctrico, los espectaculares encestes y el rugido del público en cada jugada decisiva. Una experiencia única para los fanáticos del baloncesto que buscan emociones fuertes y momentos inolvidables.",
+      "seats": [
+        {
+          "seat": "frontseat",
+          "price": 100
+        },
+        {
+          "seat": "backseat",
+          "price": 60
+        },
+        {
+          "seat": "vip",
+          "price": 150
+        }
+      ],
+      "organizers": [
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-1.png",
+          "name": "Ellie Black",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        },
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-2.png",
+          "name": "Amelie Laurent",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        },
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-1.png",
+          "name": "Ellie Black",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        },
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-2.png",
+          "name": "Amelie Laurent",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        }
+      ],
+      "recommended": false
+    },
+    {
+      "id": "10",
+      "type": "música",
+      "img_sm": "/assets/upcoming/img/music/3-sm.png",
+      "img_lg": "/assets/upcoming/img/music/3-lg.png",
+      "date": "2025-05-25",
+      "hour": "20:00",
+      "title": "Classical Symphony Performance",
+      "location": "Concert Hall, Vienna",
+      "description": "Déjate envolver por la majestuosidad de la música clásica en la Classical Symphony Performance en el prestigioso Concert Hall de Viena. Disfruta de una velada inolvidable con interpretaciones magistrales de obras de Beethoven, Mozart y Tchaikovsky, ejecutadas por una orquesta de renombre internacional. Experimenta la emoción de cada nota en un entorno acústico perfecto, donde la elegancia y la tradición se fusionan para ofrecerte una experiencia sonora única y profundamente conmovedora.",
+      "seats": [
+        {
+          "seat": "frontseat",
+          "price": 100
+        },
+        {
+          "seat": "backseat",
+          "price": 60
+        },
+        {
+          "seat": "vip",
+          "price": 150
+        }
+      ],
+      "organizers": [
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-1.png",
+          "name": "Ellie Black",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        },
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-2.png",
+          "name": "Amelie Laurent",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        },
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-1.png",
+          "name": "Ellie Black",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        }
+      ],
+      "recommended": true
+    },
+    {
+      "id": "11",
+      "type": "comida",
+      "img_sm": "/assets/upcoming/img/food/3-sm.png",
+      "img_lg": "/assets/upcoming/img/food/3-lg.png",
+      "date": "2025-06-01",
+      "hour": "14:00",
+      "title": "BBQ Feast Extravaganza",
+      "location": "Park Plaza, Miami",
+      "description": "Déjate tentar por el irresistible aroma de carnes a la parrilla y sabores ahumados en una celebración gastronómica que despierta todos los sentidos. Saborea costillas jugosas, brisket cocido lentamente y una variedad de guarniciones artesanales, todo acompañado de cervezas locales y música en vivo que animará el ambiente. Una experiencia culinaria al aire libre perfecta para los amantes del buen comer en busca de momentos memorables bajo el cálido sol de Miami.",
+      "seats": [
+        {
+          "seat": "frontseat",
+          "price": 100
+        },
+        {
+          "seat": "backseat",
+          "price": 60
+        },
+        {
+          "seat": "vip",
+          "price": 150
+        }
+      ],
+      "organizers": [
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-1.png",
+          "name": "Ellie Black",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        },
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-2.png",
+          "name": "Amelie Laurent",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        },
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-2.png",
+          "name": "Amelie Laurent",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        }
+      ],
+      "recommended": false
+    },
+    {
+      "id": "12",
+      "type": "deporte",
+      "img_sm": "/assets/upcoming/img/sport/3-sm.png",
+      "img_lg": "/assets/upcoming/img/sport/3-lg.png",
+      "date": "2025-06-05",
+      "hour": "17:00",
+      "title": "Football World Cup Qualifiers",
+      "location": "Wembley Stadium, London",
+      "description": "La emoción del fútbol alcanza su punto máximo cuando las selecciones nacionales luchan por un lugar en la Copa del Mundo. Vive cada pase, cada gol y cada atajada en un ambiente cargado de pasión y adrenalina, rodeado de hinchas que vibran al unísono con sus equipos. Una jornada de intensidad deportiva donde el orgullo y el esfuerzo se sienten en cada jugada. Wembley Stadium será el escenario de esta batalla épica que definirá quién sigue soñando con la gloria mundial.",
+      "seats": [
+        {
+          "seat": "frontseat",
+          "price": 100
+        },
+        {
+          "seat": "backseat",
+          "price": 60
+        },
+        {
+          "seat": "vip",
+          "price": 150
+        }
+      ],
+      "organizers": [
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-1.png",
+          "name": "Ellie Black",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        },
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-2.png",
+          "name": "Amelie Laurent",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        },
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-2.png",
+          "name": "Amelie Laurent",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        }
+      ],
+      "recommended": false
+    },
+    {
+      "id": "13",
+      "type": "arte",
+      "img_sm": "/assets/upcoming/img/art/4-sm.png",
+      "img_lg": "/assets/upcoming/img/art/4-lg.png",
+      "date": "2025-06-10",
+      "hour": "18:00",
+      "title": "Modern Art Symposium",
+      "location": "Art Institute, Chicago",
+      "description": "Explora el pensamiento vanguardista y las tendencias que marcan el arte contemporáneo en un encuentro que reúne a críticos, artistas y amantes del arte moderno. Debates fascinantes, conferencias inspiradoras y exposiciones innovadoras te esperan en esta experiencia única. Nuevas perspectivas sobre la creatividad, la estética y la sociedad se pondrán en diálogo. El reconocido Art Institute de Chicago será el espacio donde las ideas y el arte se fusionan en este simposio imperdible.",
+      "seats": [
+        {
+          "seat": "frontseat",
+          "price": 100
+        },
+        {
+          "seat": "backseat",
+          "price": 60
+        },
+        {
+          "seat": "vip",
+          "price": 150
+        }
+      ],
+      "organizers": [
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-1.png",
+          "name": "Ellie Black",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        },
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-2.png",
+          "name": "Amelie Laurent",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        },
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-2.png",
+          "name": "Amelie Laurent",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        }
+      ],
+      "recommended": true
+    },
+    {
+      "id": "14",
+      "type": "música",
+      "img_sm": "/assets/upcoming/img/music/4-sm.png",
+      "img_lg": "/assets/upcoming/img/music/4-lg.png",
+      "date": "2025-06-15",
+      "hour": "19:00",
+      "title": "Opera Gala Performance",
+      "location": "Teatro alla Scala, Milan",
+      "description": "Una velada llena de majestuosidad, emoción y talento vocal espera a los amantes de la ópera en un espectáculo inolvidable. Armonías sublimes, interpretaciones apasionadas y una puesta en escena deslumbrante te transportarán a un universo de arte y drama. Reconocidos solistas y una orquesta de renombre darán vida a arias icónicas y composiciones magistrales. La legendaria Scala de Milán será el escenario donde la ópera alcanza su máxima expresión en esta gala única.",
+      "seats": [
+        {
+          "seat": "frontseat",
+          "price": 100
+        },
+        {
+          "seat": "backseat",
+          "price": 60
+        },
+        {
+          "seat": "vip",
+          "price": 150
+        }
+      ],
+      "organizers": [
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-1.png",
+          "name": "Ellie Black",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        },
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-2.png",
+          "name": "Amelie Laurent",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        }
+      ],
+      "recommended": false
+    },
+    {
+      "id": "15",
+      "type": "comida",
+      "img_sm": "/assets/upcoming/img/food/4-sm.png",
+      "img_lg": "/assets/upcoming/img/food/4-lg.png",
+      "date": "2025-06-20",
+      "hour": "13:00",
+      "title": "Sushi Masterclass",
+      "location": "Sushi School, Tokyo",
+      "description": "Perfecciona tu técnica culinaria en una experiencia exclusiva dedicada al arte milenario del sushi. Bajo la guía de reconocidos maestros itamae, aprenderás desde la selección del arroz perfecto hasta el corte preciso de pescados frescos. Descubre los secretos detrás de la preparación de nigiri, maki y sashimi, mientras exploras la cultura y tradición japonesa. Esta clase en la prestigiosa Sushi School de Tokio es ideal para entusiastas y amantes de la gastronomía japonesa.",
+      "seats": [
+        {
+          "seat": "frontseat",
+          "price": 100
+        },
+        {
+          "seat": "backseat",
+          "price": 60
+        },
+        {
+          "seat": "vip",
+          "price": 150
+        }
+      ],
+      "organizers": [
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-1.png",
+          "name": "Ellie Black",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        },
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-2.png",
+          "name": "Amelie Laurent",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        }
+      ],
+      "recommended": true
+    },
+    {
+      "id": "16",
+      "type": "deporte",
+      "img_sm": "/assets/upcoming/img/sport/4-sm.png",
+      "img_lg": "/assets/upcoming/img/sport/4-lg.png",
+      "date": "2025-06-25",
+      "hour": "10:00",
+      "title": "Tennis Open Championship",
+      "location": "Roland Garros, Paris",
+      "description": "Sé testigo de la batalla definitiva donde solo los más grandes desafían los límites de la resistencia y la destreza. En la legendaria arena de Roland Garros, los titanes del tenis lucharán punto a punto en la emblemática arcilla roja. Cada saque es un rugido de determinación, cada revés una muestra de maestría. La historia se escribe con cada set, mientras el público contiene el aliento. Vive la intensidad de un campeonato donde solo uno alzará el trofeo y quedará inmortalizado como leyenda.",
+      "seats": [
+        {
+          "seat": "frontseat",
+          "price": 100
+        },
+        {
+          "seat": "backseat",
+          "price": 60
+        },
+        {
+          "seat": "vip",
+          "price": 150
+        }
+      ],
+      "organizers": [
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-1.png",
+          "name": "Ellie Black",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ],
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        },
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-2.png",
+          "name": "Amelie Laurent",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ],
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        },
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-2.png",
+          "name": "Amelie Laurent",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ],
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        }
+      ],
+      "recommended": false
+    },
+    {
+      "id": "17",
+      "type": "arte",
+      "img_sm": "/assets/upcoming/img/art/5-sm.png",
+      "img_lg": "/assets/upcoming/img/art/5-lg.png",
+      "date": "2025-07-01",
+      "hour": "11:00",
+      "title": "Photography Exhibition",
+      "location": "National Gallery, London",
+      "description": "Una colección de imágenes que despiertan emociones y despiertan la imaginación te espera en la Photography Exhibition de la National Gallery de Londres. Encuentra instantes congelados en el tiempo, donde cada fotografía revela historias ocultas y perspectivas únicas del mundo que nos rodea. Desde impactantes retratos hasta paisajes asombrosos, esta exposición es un homenaje al arte de capturar la esencia de la vida a través de la lente. Una invitación a contemplar y reflexionar.",
+      "seats": [
+        {
+          "seat": "frontseat",
+          "price": 100
+        },
+        {
+          "seat": "backseat",
+          "price": 60
+        },
+        {
+          "seat": "vip",
+          "price": 150
+        }
+      ],
+      "organizers": [
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-1.png",
+          "name": "Ellie Black",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        },
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-2.png",
+          "name": "Amelie Laurent",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        }
+      ],
+      "recommended": false
+    },
+    {
+      "id": "18",
+      "type": "música",
+      "img_sm": "/assets/upcoming/img/music/5-sm.png",
+      "img_lg": "/assets/upcoming/img/music/5-lg.png",
+      "date": "2025-07-05",
+      "hour": "20:00",
+      "title": "Indie Rock Festival",
+      "location": "The Forum, Los Angeles",
+      "description": "Guitarras crudas, letras que laten con autenticidad y un sonido que rompe moldes te esperan en el Indie Rock Festival en The Forum de Los Ángeles. Una jornada vibrante donde las bandas emergentes se mezclan con íconos del género para ofrecer presentaciones cargadas de energía y emoción. Luces, riffs inolvidables y un público apasionado crean una atmósfera única, ideal para quienes buscan nuevas experiencias musicales fuera de lo convencional. Libertad sonora en su máxima expresión.",
+      "seats": [
+        {
+          "seat": "frontseat",
+          "price": 100
+        },
+        {
+          "seat": "backseat",
+          "price": 60
+        },
+        {
+          "seat": "vip",
+          "price": 150
+        }
+      ],
+      "organizers": [
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-1.png",
+          "name": "Ellie Black",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        },
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-2.png",
+          "name": "Amelie Laurent",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        }
+      ],
+      "recommended": false
+    },
+    {
+      "id": "19",
+      "type": "comida",
+      "img_sm": "/assets/upcoming/img/food/5-sm.png",
+      "img_lg": "/assets/upcoming/img/food/5-lg.png",
+      "date": "2025-07-10",
+      "hour": "12:00",
+      "title": "Vegan Food Festival",
+      "location": "Green Park, Los Angeles",
+      "description": "Un paraíso de sabores frescos y sostenibles cobra vida en el Vegan Food Festival en Green Park, Los Ángeles. Platos innovadores, desde hamburguesas plant-based hasta postres crudiveganos, sorprenderán incluso a los paladares más exigentes. Stands de comida orgánica, charlas de nutrición consciente y talleres de cocina saludable completan la experiencia. Una celebración del buen gusto, el respeto por el planeta y el bienestar, ideal para foodies y curiosos por igual.",
+      "seats": [
+        {
+          "seat": "frontseat",
+          "price": 100
+        },
+        {
+          "seat": "backseat",
+          "price": 60
+        },
+        {
+          "seat": "vip",
+          "price": 150
+        }
+      ],
+      "organizers": [
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-1.png",
+          "name": "Ellie Black",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        },
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-2.png",
+          "name": "Amelie Laurent",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        },
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-2.png",
+          "name": "Amelie Laurent",
+          "job": "Concert Manager",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        }
+      ],
+      "recommended": true
+    }
+  ]
+}
