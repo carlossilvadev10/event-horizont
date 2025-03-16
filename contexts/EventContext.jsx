@@ -28,26 +28,17 @@ const EventProvider = ({ children }) => {
     const filteredEvents = useMemo(() => {
         const today = new Date();
         return events.filter((event) => {
+            // Comprobar fecha del evento (excluir eventos pasados)
             const eventDate = new Date(event.date);
             if (eventDate < today) return false;
-
-            const matchesSearch = appliedFilters.searchTerm
-                ? event.title.toLowerCase().includes(appliedFilters.searchTerm.toLowerCase()) ||
-                  event.type.toLowerCase().includes(appliedFilters.searchTerm.toLowerCase())
-                : true;
-
-            const matchesLocation = appliedFilters.selectedLocation
-                ? event.location.toLowerCase() === appliedFilters.selectedLocation.toLowerCase()
-                : true;
-
-            const matchesDate = appliedFilters.selectedDate
-                ? eventDate.toISOString().split("T")[0] === new Date(appliedFilters.selectedDate).toISOString().split("T")[0]
-                : true;
-
-            const matchesType = appliedFilters.selectedType
-                ? event.type.toLowerCase() === appliedFilters.selectedType.toLowerCase()
-                : true;
-
+            // Comprobar search term
+            const matchesSearch = appliedFilters.searchTerm ? (event.title.toLowerCase().includes(appliedFilters.searchTerm.toLowerCase()) || event.type.toLowerCase().includes(appliedFilters.searchTerm.toLowerCase())) : true;
+            // Comprobar ubicaciones
+            const matchesLocation = appliedFilters.selectedLocation ? event.location.toLowerCase() === appliedFilters.selectedLocation.toLowerCase() : true;
+            // Comprobar fecha
+            const matchesDate = appliedFilters.selectedDate ? eventDate.toISOString().split("T")[0] === new Date(appliedFilters.selectedDate).toISOString().split("T")[0] : true;
+            // Comprobar tipo
+            const matchesType = appliedFilters.selectedType ? event.type.toLowerCase() === appliedFilters.selectedType.toLowerCase() : true;
             return matchesSearch && matchesLocation && matchesDate && matchesType;
         });
     }, [events, appliedFilters]);
@@ -55,44 +46,30 @@ const EventProvider = ({ children }) => {
     // Fetch events
     useEffect(() => {
         const fetchEvents = async () => {
+            // Start loader
             setIsLoading(true);
-
             try {
-                // Obtienes la URL de la variable de entorno
-                const API_URL = process.env.NEXT_PUBLIC_API_URL;
-
-                if (!API_URL) {
-                    throw new Error("API_URL no está definida. Revisa tus variables de entorno.");
-                }
-
-                const res = await fetch(`${API_URL}/events`);
-
+                const res = await fetch("http://localhost:4000/events");
                 if (!res.ok) throw new Error("Failed to fetch events");
-
                 const data = await res.json();
                 setEvents(data);
+                // Stop loader
+                setIsLoading(false);
             } catch (error) {
                 setError(error.message);
-            } finally {
+                // Stop loader
                 setIsLoading(false);
             }
-        };
-
+        }
         fetchEvents();
     }, []);
 
     const handleSubmit = () => {
         setIsLoading(true);
         setShowEventList(true);
-        setAppliedFilters({
-            searchTerm,
-            selectedLocation,
-            selectedDate,
-            selectedType,
-        });
-
+        setAppliedFilters({ searchTerm, selectedLocation, selectedDate, selectedType });
         setTimeout(() => {
-            setIsLoading(false);
+            setIsLoading(false)
         }, 2500);
     };
 
@@ -107,9 +84,7 @@ const EventProvider = ({ children }) => {
     const formatDate = (dateString, type = "default") => {
         const [year, month, day] = dateString.split("-").map(Number);
         const date = new Date(year, month - 1, day);
-
         let options;
-
         switch (type) {
             case "event":
                 options = { weekday: "short", day: "numeric", month: "short" };
@@ -120,34 +95,14 @@ const EventProvider = ({ children }) => {
             default:
                 options = { day: "numeric", month: "numeric", year: "numeric" };
         }
-
         return date.toLocaleDateString("es-ES", options);
     };
 
     return (
-        <EventContext.Provider
-            value={{
-                events,
-                isLoading,
-                error,
-                showEventList,
-                searchTerm,
-                setSearchTerm,
-                selectedLocation,
-                setSelectedLocation,
-                selectedDate,
-                setSelectedDate,
-                selectedType,
-                setSelectedType,
-                filteredEvents,
-                handleSubmit,
-                handleClearSearch,
-                formatDate,
-            }}
-        >
+        <EventContext.Provider value = {{ events, isLoading, error, showEventList, searchTerm, setSearchTerm, selectedLocation, setSelectedLocation, selectedDate, setSelectedDate, selectedType, setSelectedType, filteredEvents, handleSubmit, handleClearSearch, formatDate }}>
             {children}
         </EventContext.Provider>
-    );
-};
+    )
+}
 
 export default EventProvider;
