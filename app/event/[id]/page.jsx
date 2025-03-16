@@ -15,7 +15,7 @@ const EventDetails = async ({ params }) => {
 
     // Fetch event según el id
     const fetchEvent = async (id) => {
-        const res = await fetch(`http://localhost:4000/events/${id}`);
+        const res = await fetch(`https://events-api-9lfc.onrender.com/events/${id}`);
         if (!res.ok) throw new Error("Error al obtener el evento");
         return res.json();
     };

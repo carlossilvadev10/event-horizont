@@ -49,7 +49,7 @@ const EventProvider = ({ children }) => {
             // Start loader
             setIsLoading(true);
             try {
-                const res = await fetch("http://localhost:4000/events");
+                const res = await fetch("https://events-api-9lfc.onrender.com/events");
                 if (!res.ok) throw new Error("Failed to fetch events");
                 const data = await res.json();
                 setEvents(data);
@@ -77,7 +77,7 @@ const EventProvider = ({ children }) => {
         setSearchTerm("");
         setShowEventList(false);
         setSelectedLocation("");
-        setSelectedDate(false);
+        setSelectedDate(null);
         setSelectedType("");
     };
 
