@@ -42,7 +42,7 @@ const Footer = () => {
                     </div>
                     {/* form */}
                     <form action = "/" className = "relative flex items-center mb-16">
-                        <input type = "text" name = "email" id = "email" placeholder = "Correo electrónico" className = "pl-8 w-full h-[60px] rounded-full outline-none placeholder:text-primary/80 text-primary text-sm" />
+                        <input type = "email" name = "email" id = "email" placeholder = "Correo electrónico" className = "pl-8 w-full h-[60px] rounded-full outline-none placeholder:text-primary/80 text-primary text-sm" />
                         <button className = "bg-secondary hover:bg-secondary-hover transition-all w-[114px] h-[52px] rounded-full text-sm uppercase absolute right-1">
                             Suscribirse
                         </button>
