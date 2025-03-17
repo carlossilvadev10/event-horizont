@@ -1,6 +1,6 @@
 # 🎉 EVENT HORIZONT ✨
 
-[![EVENT HORIZONT](./public/preview-event-horizont.png)](https://event-horizont.netlify.app/)
+[![EVENT HORIZONT](./public/assets/imagen-preview.png)](https://event-horizont.netlify.app/)
 
 Bienvenido a **EVENT HORIZONT**, la plataforma digital donde descubrirás los mejores eventos y experiencias cerca de ti. Nuestra misión es conectar a las personas con actividades únicas y memorables, desde conciertos y festivales hasta conferencias y talleres interactivos.
 
@@ -16,10 +16,6 @@ Accede desde cualquier dispositivo y forma parte de una comunidad apasionada por
 - 📱 **Diseño totalmente responsive**, compatible con cualquier dispositivo.
 - 🌙 **Modo oscuro / claro** para una experiencia visual adaptable.
 - 🚀 **Carga rápida** y optimización SEO gracias a Next.js.
-- ✨ **Animaciones suaves** y transiciones que mejoran la experiencia de usuario.
-- 🔒 **Autenticación de usuarios** y registro de cuentas.
-- 📨 **Notificaciones y suscripción** para estar al tanto de nuevos eventos.
-- 🛠️ **Panel de administración** para gestionar eventos y usuarios (próximamente).
 - ⏳ **Vista detallada de cada evento**, incluye información completa y un contador regresivo que te indica cuánto falta para que inicie.
 
 ---
