@@ -2,9 +2,7 @@
 
 [![EVENT HORIZONT](./public/assets/imagen-preview.png)](https://event-horizont.netlify.app/)
 
-Bienvenido a **EVENT HORIZONT**, la plataforma digital donde descubrirás los mejores eventos y experiencias cerca de ti. Nuestra misión es conectar a las personas con actividades únicas y memorables, desde conciertos y festivales hasta conferencias y talleres interactivos.
-
-Accede desde cualquier dispositivo y forma parte de una comunidad apasionada por el entretenimiento y el conocimiento. ¡Explora, vive y comparte tus eventos favoritos hoy mismo!
+Bienvenido a **EVENT HORIZONT**, la plataforma digital donde descubrirás los mejores eventos y experiencias cerca de ti. Nuestra misión es conectar a las personas con actividades únicas y memorables, desde conciertos y festivales hasta conferencias y talleres interactivos. Accede desde cualquier dispositivo y forma parte de una comunidad apasionada por el entretenimiento y el conocimiento. ¡Explora, vive y comparte tus eventos favoritos hoy mismo!
 
 ---
 
@@ -29,7 +27,6 @@ Un viaje a lo extraordinario.
 ---
 
 ## 🛠️ Tecnologías Utilizadas 👨‍💻
-
 
 | HTML | CSS | JavaScript | React | Tailwind CSS | Next.js | Node.js | Render |
 |------|-----|------------|-------|--------------|--------|---------|--------|
