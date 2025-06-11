@@ -14,7 +14,6 @@ Accede desde cualquier dispositivo y forma parte de una comunidad apasionada por
 - 📅 **Sistema de filtrado inteligente** por fecha, tipo y ubicación.
 - 💡 **Recomendaciones personalizadas** según tus intereses.
 - 📱 **Diseño totalmente responsive**, compatible con cualquier dispositivo.
-- 🌙 **Modo oscuro / claro** para una experiencia visual adaptable.
 - 🚀 **Carga rápida** y optimización SEO gracias a Next.js.
 - ⏳ **Vista detallada de cada evento**, incluye información completa y un contador regresivo que te indica cuánto falta para que inicie.
 
