@@ -12,7 +12,6 @@ import DownloadApp from "@/components/DownloadApp";
 
 const Home = () => {
   const { showEventList } = useContext(EventContext);
-  console.log(showEventList);
 
   return (
     <div className = "">
