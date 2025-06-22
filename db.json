@@ -25,10 +25,14 @@
         }
       ],
       "requirements": [
-        "Tener entrada impresa o digital",
-        "Llegar al menos 30 minutos antes",
-        "No se permite el ingreso de alimentos",
-        "Llevar documento de identidad"
+        "Presentar entrada impresa o digital al ingresar",
+        "Llevar documento de identidad válido",
+        "Llegar al menos 30 minutos antes del inicio del concierto",
+        "No se permite el ingreso de alimentos ni bebidas",
+        "No se permite el ingreso de objetos punzocortantes o peligrosos",
+        "Seguir las indicaciones del personal de seguridad",
+        "Estar preparado para ruidos fuertes y efectos visuales intensos",
+        "No se permite fumar dentro del recinto"
       ],
       "organizers": [
         {
@@ -116,10 +120,14 @@
         }
       ],
       "requirements": [
-        "Tener entrada impresa o digital",
-        "Llegar al menos 30 minutos antes",
-        "No se permite el ingreso de alimentos",
-        "Llevar documento de identidad"
+        "Presentar entrada impresa o digital al ingresar",
+        "Llevar documento de identidad válido",
+        "Llegar al menos 20 minutos antes del inicio del espectáculo",
+        "Mantener el silencio durante las interpretaciones",
+        "No se permite grabar audio o video sin autorización",
+        "No se permite el ingreso de alimentos o bebidas del exterior",
+        "Seguir las indicaciones del personal del local",
+        "Silenciar dispositivos móviles antes de ingresar a la sala"
       ],
       "organizers": [
         {
@@ -205,6 +213,16 @@
           "seat": "vip",
           "price": 150
         }
+      ],
+      "requirements": [
+        "Presentar entrada impresa o digital al ingresar",
+        "Llevar documento de identidad válido",
+        "Usar ropa y calzado cómodos para actividades al aire libre",
+        "No se permite el ingreso de aerosoles u objetos similares sin autorización",
+        "No se permite el ingreso de bebidas alcohólicas externas",
+        "Seguir las indicaciones del personal del evento y los artistas",
+        "Respetar las obras y espacios de exposición",
+        "Llegar con anticipación a los talleres, ya que los cupos son limitados"
       ],
       "organizers": [
         {
@@ -310,6 +328,16 @@
           "price": 150
         }
       ],
+      "requirements": [
+        "Presentar entrada impresa o digital al ingresar",
+        "Llevar documento de identidad válido",
+        "Llegar al menos 15 minutos antes del horario reservado",
+        "No se permite tomar fotografías con flash",
+        "No se permite el ingreso de alimentos ni bebidas",
+        "Guardar silencio en las salas de exhibición",
+        "Seguir las indicaciones del personal del museo",
+        "Las mochilas grandes deben dejarse en el guardarropa"
+      ],
       "organizers": [
         {
           "img_avatar": "/assets/organizers/organizer-avt-1.png",
@@ -394,6 +422,16 @@
           "seat": "vip",
           "price": 150
         }
+      ],
+      "requirements": [
+        "Presentar entrada impresa o digital al ingresar",
+        "Llevar documento de identidad válido",
+        "Llegar al menos 15 minutos antes del horario de entrada",
+        "No se permite tomar fotografías con flash",
+        "No se permite tocar las piezas en exhibición",
+        "No se permite el ingreso de alimentos ni bebidas",
+        "Seguir las indicaciones del personal del museo",
+        "Utilizar los guardarropas para bolsos o mochilas grandes"
       ],
       "organizers": [
         {
@@ -480,6 +518,16 @@
           "price": 150
         }
       ],
+      "requirements": [
+        "Presentar entrada impresa o digital al ingresar",
+        "Llevar documento de identidad válido, especialmente para catas de vino",
+        "Llegar al menos 20 minutos antes del inicio del evento",
+        "No se permite el ingreso con alimentos o bebidas externas",
+        "Seguir las indicaciones del personal del evento y los chefs invitados",
+        "Usar calzado cómodo para desplazarse por el área al aire libre",
+        "Respetar los horarios de talleres y demostraciones",
+        "No se permite fumar en las zonas de degustación"
+      ],
       "organizers": [
         {
           "img_avatar": "/assets/organizers/organizer-avt-1.png",
@@ -565,6 +613,16 @@
           "price": 150
         }
       ],
+      "requirements": [
+        "Presentar entrada impresa o digital al ingresar",
+        "Llevar documento de identidad válido, especialmente para acceder a las catas de vino",
+        "Llegar al menos 20 minutos antes del inicio del evento",
+        "No se permite el ingreso con alimentos o bebidas del exterior",
+        "Usar ropa y calzado cómodos para zonas al aire libre",
+        "Seguir las indicaciones del personal y organizadores",
+        "Respetar los turnos y horarios establecidos para talleres y demostraciones",
+        "Mantener limpio el espacio y utilizar los recipientes de reciclaje disponibles"
+      ],
       "organizers": [
         {
           "img_avatar": "/assets/organizers/organizer-avt-1.png",
@@ -631,6 +689,16 @@
           "price": 150
         }
       ],
+      "requirements": [
+        "Presentar entrada impresa o digital al ingresar",
+        "Llevar documento de identidad válido",
+        "Llegar al menos 45 minutos antes del inicio del partido",
+        "No se permite el ingreso de alimentos o bebidas del exterior",
+        "No se permite el ingreso de objetos contundentes o peligrosos",
+        "Seguir las indicaciones del personal de seguridad y organización",
+        "Respetar las normas del recinto y el comportamiento de los fanáticos",
+        "Usar ropa y calzado adecuados para largas jornadas al aire libre"
+      ],
       "organizers": [
         {
           "img_avatar": "/assets/organizers/organizer-avt-1.png",
@@ -696,6 +764,16 @@
           "seat": "vip",
           "price": 150
         }
+      ],
+      "requirements": [
+        "Presentar entrada impresa o digital al ingresar",
+        "Llevar documento de identidad válido",
+        "Llegar al menos 45 minutos antes del inicio del partido",
+        "No se permite el ingreso de alimentos o bebidas del exterior",
+        "No se permite el ingreso de objetos voluminosos o peligrosos",
+        "Seguir las indicaciones del personal de seguridad y organización",
+        "Respetar las normas de conducta dentro del recinto",
+        "Se recomienda usar ropa cómoda y prepararse para ruido elevado y efectos visuales"
       ],
       "organizers": [
         {
@@ -801,6 +879,16 @@
           "price": 150
         }
       ],
+      "requirements": [
+        "Presentar entrada impresa o digital al ingresar",
+        "Llevar documento de identidad válido",
+        "Llegar al menos 20 minutos antes del inicio de la función",
+        "Guardar silencio durante las interpretaciones",
+        "Apagar o silenciar dispositivos móviles antes de ingresar a la sala",
+        "No se permite tomar fotografías ni grabar durante el concierto",
+        "No se permite el ingreso de alimentos o bebidas",
+        "Seguir las indicaciones del personal del recinto"
+      ],
       "organizers": [
         {
           "img_avatar": "/assets/organizers/organizer-avt-1.png",
@@ -885,6 +973,16 @@
           "seat": "vip",
           "price": 150
         }
+      ],
+      "requirements": [
+        "Presentar entrada impresa o digital al ingresar",
+        "Llevar documento de identidad válido, especialmente para la compra de bebidas alcohólicas",
+        "Llegar al menos 20 minutos antes del inicio del evento",
+        "No se permite el ingreso con alimentos o bebidas del exterior",
+        "Usar ropa y calzado cómodos para zonas al aire libre",
+        "Seguir las indicaciones del personal del evento",
+        "Mantener limpio el espacio utilizando los contenedores de residuos y reciclaje",
+        "No se permite fumar en las áreas de consumo de alimentos"
       ],
       "organizers": [
         {
@@ -971,6 +1069,16 @@
           "price": 150
         }
       ],
+      "requirements": [
+        "Presentar entrada impresa o digital al ingresar",
+        "Llevar documento de identidad válido",
+        "Llegar al menos 60 minutos antes del inicio del partido",
+        "No se permite el ingreso de alimentos, bebidas o bengalas",
+        "No se permite el ingreso de objetos contundentes o peligrosos",
+        "Seguir las indicaciones del personal de seguridad y organización",
+        "Respetar las normas del estadio y el comportamiento entre hinchadas",
+        "Usar ropa cómoda y prepararse para clima variable al aire libre"
+      ],
       "organizers": [
         {
           "img_avatar": "/assets/organizers/organizer-avt-1.png",
@@ -1055,6 +1163,16 @@
           "seat": "vip",
           "price": 150
         }
+      ],
+      "requirements": [
+        "Presentar entrada impresa o digital al ingresar",
+        "Llevar documento de identidad válido",
+        "Llegar al menos 15 minutos antes del inicio de cada conferencia o exposición",
+        "No se permite el ingreso de alimentos ni bebidas en las salas de exposición o auditorios",
+        "Silenciar dispositivos móviles durante las conferencias y debates",
+        "No se permite grabar audio o video sin autorización previa",
+        "Respetar las normas del recinto y las indicaciones del personal",
+        "Participar con respeto y apertura durante las sesiones de diálogo"
       ],
       "organizers": [
         {
@@ -1141,6 +1259,16 @@
           "price": 150
         }
       ],
+      "requirements": [
+        "Presentar entrada impresa o digital al ingresar",
+        "Llevar documento de identidad válido",
+        "Llegar al menos 30 minutos antes del inicio del espectáculo",
+        "No se permite el ingreso de alimentos ni bebidas",
+        "No se permite tomar fotografías ni grabar durante la función",
+        "Usar vestimenta formal según el código de etiqueta del teatro",
+        "Silenciar completamente los dispositivos móviles",
+        "Seguir las indicaciones del personal del teatro en todo momento"
+      ],
       "organizers": [
         {
           "img_avatar": "/assets/organizers/organizer-avt-1.png",
@@ -1207,6 +1335,16 @@
           "price": 150
         }
       ],
+      "requirements": [
+        "Presentar confirmación de inscripción impresa o digital al ingresar",
+        "Llevar documento de identidad válido",
+        "Llegar al menos 15 minutos antes del inicio de la clase",
+        "Usar ropa cómoda y mantener una buena higiene personal",
+        "No se permite el ingreso con alimentos o bebidas externas",
+        "Seguir en todo momento las instrucciones del maestro itamae",
+        "Avisar con anticipación en caso de alergias o restricciones alimentarias",
+        "No tomar fotografías ni grabar sin autorización durante la sesión"
+      ],
       "organizers": [
         {
           "img_avatar": "/assets/organizers/organizer-avt-1.png",
@@ -1272,6 +1410,16 @@
           "seat": "vip",
           "price": 150
         }
+      ],
+      "requirements": [
+        "Presentar entrada impresa o digital al ingresar",
+        "Llevar documento de identidad válido",
+        "Llegar al menos 45 minutos antes del inicio del partido",
+        "No se permite el ingreso de alimentos ni bebidas del exterior",
+        "No se permite el uso de cámaras profesionales o grabación sin autorización",
+        "Silenciar los dispositivos móviles durante los partidos",
+        "Seguir las indicaciones del personal de seguridad y organización",
+        "Usar ropa cómoda y protección solar para zonas al aire libre"
       ],
       "organizers": [
         {
@@ -1358,6 +1506,16 @@
           "price": 150
         }
       ],
+      "requirements": [
+        "Presentar entrada impresa o digital al ingresar",
+        "Llevar documento de identidad válido",
+        "Llegar al menos 15 minutos antes del horario reservado",
+        "No se permite tomar fotografías dentro de la exposición sin autorización",
+        "No se permite el ingreso de alimentos ni bebidas",
+        "Silenciar los dispositivos móviles en las salas de exhibición",
+        "No tocar las obras ni las instalaciones",
+        "Seguir las indicaciones del personal del museo"
+      ],
       "organizers": [
         {
           "img_avatar": "/assets/organizers/organizer-avt-1.png",
@@ -1424,6 +1582,16 @@
           "price": 150
         }
       ],
+      "requirements": [
+        "Presentar entrada impresa o digital al ingresar",
+        "Llevar documento de identidad válido",
+        "Llegar al menos 30 minutos antes del inicio del festival",
+        "No se permite el ingreso de alimentos, bebidas o sustancias prohibidas",
+        "No se permite el ingreso de objetos punzocortantes o peligrosos",
+        "Seguir las indicaciones del personal de seguridad y organización",
+        "Usar ropa y calzado cómodos para eventos prolongados y al aire libre",
+        "Se recomienda el uso de tapones para oídos por la alta intensidad sonora"
+      ],
       "organizers": [
         {
           "img_avatar": "/assets/organizers/organizer-avt-1.png",
@@ -1489,6 +1657,16 @@
           "seat": "vip",
           "price": 150
         }
+      ],
+      "requirements": [
+        "Presentar entrada impresa o digital al ingresar",
+        "Llevar documento de identidad válido",
+        "Llegar al menos 20 minutos antes del inicio del evento",
+        "No se permite el ingreso con alimentos o bebidas del exterior",
+        "Seguir las indicaciones del personal del evento y de los talleres",
+        "Usar ropa y calzado cómodos para desplazarse por áreas al aire libre",
+        "Mantener limpios los espacios y utilizar los recipientes de reciclaje",
+        "Avisar con anticipación en caso de alergias o restricciones alimentarias"
       ],
       "organizers": [
         {

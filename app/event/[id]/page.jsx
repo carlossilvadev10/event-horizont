@@ -27,7 +27,7 @@ const EventDetails = async ({ params }) => {
             <div className = "container mx-auto">
                 <div className = "w-full max-w-[600px] xl:max-w-none mx-auto">
                     {/* Event details 1 */}
-                    <div className = "flex flex-col gap-8 xl:gap-24 xl:flex-row pt-28 pb-12 sm:py-0 xl:mb-24">
+                    <div className = "flex flex-col gap-8 xl:gap-24 xl:flex-row pt-28 pb-12 sm:py-0 xl:mb-20">
                         {/* Image */}
                         <div className = "relative w-full h-[320px] xl:max-w-[670px] xl:h-[500px] rounded-2xl overflow-hidden mb-12 xl:mb-0">
                             <Image src = {event.img_lg} fill className = "object-cover mix-blend-lighten" quality = {100} alt = "img-lg" />
