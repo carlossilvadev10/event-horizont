@@ -6,8 +6,8 @@ import EventSchedule from "@/components/EventSchedule";
 import Timer from "@/components/Timer";
 import CustomSelect from "@/components/CustomSelect";
 import BuyTicket from "@/components/BuyTicket";
+import Requirements from "@/components/Requirements";
 import Organizers from "@/components/Organizers";
-
 import { FaRegCircleCheck } from "react-icons/fa6"
 
 const EventDetails = async ({ params }) => {
@@ -52,45 +52,8 @@ const EventDetails = async ({ params }) => {
                             <p className = "text-grey text-justify">
                                 {event.description}
                             </p>
-                            <div className = "">
-                                <h3 className = "h3 mb-6">
-                                    Requisitos para el evento
-                                </h3>
-                                <ul className = "flex flex-col gap-4">
-                                    <li className = "flex gap-3 items-center">
-                                        <span className = "text-accent text-xl">
-                                            <FaRegCircleCheck />
-                                        </span>
-                                        <p className = "text-grey">
-                                            Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                                        </p>
-                                    </li>
-                                    <li className = "flex gap-3 items-center">
-                                        <span className = "text-accent text-xl">
-                                            <FaRegCircleCheck />
-                                        </span>
-                                        <p className = "text-grey">
-                                            Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                                        </p>
-                                    </li>
-                                    <li className = "flex gap-3 items-center">
-                                        <span className = "text-accent text-xl">
-                                            <FaRegCircleCheck />
-                                        </span>
-                                        <p className = "text-grey">
-                                            Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                                        </p>
-                                    </li>
-                                    <li className = "flex gap-3 items-center">
-                                        <span className = "text-accent text-xl">
-                                            <FaRegCircleCheck />
-                                        </span>
-                                        <p className = "text-grey">
-                                            Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                                        </p>
-                                    </li>
-                                </ul>
-                            </div>
+                            {/* Requirements */}
+                            <Requirements event = {event} />
                         </div>
                         {/* Organizers */}
                         <div className = "w-full max-w-[460px]">
