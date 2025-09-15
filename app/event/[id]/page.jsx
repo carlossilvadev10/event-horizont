@@ -1,6 +1,4 @@
 import React from "react";
-
-// components
 import Image from "next/image";
 import EventSchedule from "@/components/EventSchedule";
 import Timer from "@/components/Timer";
@@ -8,19 +6,19 @@ import CustomSelect from "@/components/CustomSelect";
 import BuyTicket from "@/components/BuyTicket";
 import Requirements from "@/components/Requirements";
 import Organizers from "@/components/Organizers";
-import { FaRegCircleCheck } from "react-icons/fa6"
+import dbo from "@/db.json";
 
-const EventDetails = async ({ params }) => {
-    const { id } = await params;
+const getEventById = async (id) => {
+    return dbo.events.find(e => e.id === id);
+}
 
-    // Fetch event según el id
-    const fetchEvent = async (id) => {
-        const res = await fetch(`https://events-api-9lfc.onrender.com/events/${id}`);
-        if (!res.ok) throw new Error("Error al obtener el evento");
-        return res.json();
-    };
+export default async function EventDetails({ params }) {
+    const awaitedParams = await Promise.resolve(params);
+    const { id } = awaitedParams;
 
-    const event = await fetchEvent(id);
+    const event = await getEventById(id);
+
+    if (!event) return <p>Evento no encontrado</p>;
 
     return (
         <section className = "min-h-screen flex items-center py-8 sm:py-48">
@@ -30,7 +28,7 @@ const EventDetails = async ({ params }) => {
                     <div className = "flex flex-col gap-8 xl:gap-24 xl:flex-row pt-28 pb-12 sm:py-0 xl:mb-20">
                         {/* Image */}
                         <div className = "relative w-full h-[320px] xl:max-w-[670px] xl:h-[500px] rounded-2xl overflow-hidden mb-12 xl:mb-0">
-                            <Image src = {event.img_lg} fill className = "object-cover mix-blend-lighten" quality = {100} alt = "img-lg" />
+                            <Image src = {event.img_lg} alt = "img-lg" fill sizes = "(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" quality = {100} className = "object-cover mix-blend-lighten" />
                         </div>
                         {/* Info */}
                         <div className = "flex w-full max-w-[460px] flex-col justify-center gap-8 flex-1 sm:mb-12 xl:mb-0">
@@ -65,5 +63,3 @@ const EventDetails = async ({ params }) => {
         </section>
     )
 }
-
-export default EventDetails;

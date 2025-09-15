@@ -9,7 +9,7 @@ const Header = () => {
                 <div className = "flex justify-between items-center h-full">
                     {/* Logo */}
                     <Link href = "/">
-                        <Image src = {"/assets/header/logo.svg"} width = {70} height = {70} alt = "image-logo" />
+                        <Image src = "/assets/header/logo.svg" width = {70} height = {70} alt = "image-logo" className = "w-auto h-auto" />
                     </Link>
                     <div className = "flex gap-4">
                         <button className = "btn btn-tertiary">
