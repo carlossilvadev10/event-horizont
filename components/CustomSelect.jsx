@@ -5,7 +5,7 @@ import { TicketContext } from "@/contexts/TicketContext";
 import { PiChairFill } from "react-icons/pi";
 
 const CustomSelect = ({ event }) => {
-    const {seat, showMenu, setShowMenu, handleSeat, initializeEvent } = useContext(TicketContext);
+    const { seat, showMenu, setShowMenu, handleSeat, initializeEvent } = useContext(TicketContext);
     // Inicializar el evento
     useEffect(() => {
         initializeEvent(event);

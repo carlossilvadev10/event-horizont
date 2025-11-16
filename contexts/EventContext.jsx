@@ -1,6 +1,7 @@
 "use client";
 
 import React, { createContext, useEffect, useState, useMemo } from "react";
+import dbo from '@/db.json';
 
 export const EventContext = createContext();
 
@@ -45,23 +46,14 @@ const EventProvider = ({ children }) => {
 
     // Fetch events
     useEffect(() => {
-        const fetchEvents = async () => {
-            // Start loader
-            setIsLoading(true);
-            try {
-                const res = await fetch("https://events-api-9lfc.onrender.com/events");
-                if (!res.ok) throw new Error("Failed to fetch events");
-                const data = await res.json();
-                setEvents(data);
-                // Stop loader
-                setIsLoading(false);
-            } catch (error) {
-                setError(error.message);
-                // Stop loader
-                setIsLoading(false);
-            }
+        setIsLoading(true);
+        try {
+            setEvents(dbo.events);
+            setIsLoading(false);
+        } catch (error) {
+            setError(error.message);
+            setIsLoading(false);
         }
-        fetchEvents();
     }, []);
 
     const handleSubmit = () => {
