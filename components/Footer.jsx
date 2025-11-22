@@ -66,7 +66,7 @@ const Footer = () => {
                             <Image src = "/assets/footer/logo.svg" fill alt = "logo" />
                         </Link>
                         <p className = "text-sm">
-                            Copyright &copy; 2025 <a href = "https://github.com/carlozzsilva10" target = "_blank" rel = "noopener noreferrer" className = "font-semibold">carlozzsilva10</a>. Todos los derechos reservados.
+                            Copyright &copy; 2025 <a href = "https://github.com/carlossilvadev10" target = "_blank" rel = "noopener noreferrer" className = "font-semibold">carlossilvadev10</a>. Todos los derechos reservados.
                         </p>
                     </div>
                 </div>
